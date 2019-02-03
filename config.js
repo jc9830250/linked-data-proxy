@@ -30,7 +30,9 @@ CONFIG = {
         "exp-linked-data-proxy-2018.dlll.nccu.edu.tw:3268",
         "myth.dlll.nccu.edu.tw",
         "patata.dlll.nccu.edu.tw",
-        "star.dlll.nccu.edu.tw"
+        "star.dlll.nccu.edu.tw",
+        "demo-linked-data-proxy-2017.dlll.nccu.edu.tw:3253",
+        "demo-linked-data-proxy-2017.dlll.nccu.edu.tw"
     ],
     
     // 模組的別名
